@@ -40,7 +40,7 @@ body::before {
 }
 
 .browser-bar {
-  background-color: #ff6b6b;
+  background-color: #98f503;
   border: 2px solid black;
   border-bottom: none;
   border-radius: 8px 8px 0 0;
@@ -68,11 +68,11 @@ body::before {
 }
 
 .green {
-  background-color: #4ecdc4;
+  background-color: #dd833f;
 }
 
 .red {
-  background-color: #ff6b6b;
+  background-color: #fd0000;
 }
 
 .address-bar {
@@ -108,7 +108,7 @@ body::before {
 }
 
 .nav-menu {
-  background-color: #4ecdc4;
+  background-color: #51c4bc;
   padding: 8px;
   border: 2px solid black;
   border-top: none;
