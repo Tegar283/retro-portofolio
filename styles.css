@@ -40,7 +40,7 @@ body::before {
 }
 
 .browser-bar {
-  background-color: #98f503;
+  background-color: #ff2a00;
   border: 2px solid black;
   border-bottom: none;
   border-radius: 8px 8px 0 0;
@@ -68,7 +68,7 @@ body::before {
 }
 
 .green {
-  background-color: #dd833f;
+  background-color: #b3dd3f;
 }
 
 .red {
